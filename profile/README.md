@@ -57,11 +57,7 @@ The language uses the `.yuri` file extension and compiles to JavaScript, allowin
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsundereLang&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsundereLang&theme=transparent&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/TsundereLang/.github/output/github-contribution-grid-snake.svg" alt="Tsundere contribution graph">
 </p>
 
 ---

@@ -15,10 +15,10 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: TsundereLang
+          github_user_name: Cloaxyyy
           outputs: |
-            dist/snake/github-snake.svg
-            dist/snake/github-snake-dark.svg?palette=github-dark
+            dist/snake/github-contribution-grid-snake.svg
+            dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish generated assets
         uses: crazy-max/ghaction-github-pages@v4
